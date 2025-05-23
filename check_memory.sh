@@ -1,5 +1,6 @@
 #!/bin/bash
 # check_memory.sh - Display system memory usage
+# Version 1.1 - Improved output formatting
 
 echo "===== Memory Usage ====="
 free -h
